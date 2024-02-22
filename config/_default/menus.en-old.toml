@@ -1,3 +1,5 @@
+############# English navigation ##############
+
 # main menu
 [[main]]
 name = "Home"
@@ -10,7 +12,12 @@ url = "about/"
 weight = 2
 
 [[main]]
+name = "Elements"
+url = "elements/"
 weight = 3
+
+[[main]]
+weight = 4
 name = "Pages"
 hasChildren = true
 
@@ -26,8 +33,19 @@ url = "contact/"
 
 [[main]]
 parent = "Pages"
+name = "Authors"
+url = "authors/"
+
+[[main]]
+parent = "Pages"
 name = "Categories"
 url = "categories/"
+
+[[main]]
+parent = "Pages"
+name = "404 Page"
+url = "404/"
+
 
 # footer menu
 [[footer]]
@@ -36,6 +54,11 @@ url = "about/"
 weight = 1
 
 [[footer]]
+name = "Elements"
+url = "elements/"
+weight = 2
+
+[[footer]]
 name = "Privacy Policy"
 url = "privacy-policy/"
-weight = 2
+weight = 3
