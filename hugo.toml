@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://dev.zenbiz.ai"
 <<<<<<< HEAD
 # Title of your website (required).
 title = "Hugoplate"
