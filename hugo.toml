@@ -1,6 +1,5 @@
-######################## default configuration ####################
-# The base URL of your site (required). This will be prepended to all relative URLs.
 baseURL = "/"
+<<<<<<< HEAD
 # Title of your website (required).
 title = "Hugoplate"
 # Your theme name
@@ -11,6 +10,13 @@ timeZone = "America/New_York"
 paginate = 2 # see https://gohugo.io/extras/pagination/
 # post excerpt
 summaryLength = 10 # see https://gohugo.io/content-management/excerpts/
+=======
+title = "ZenBiz AI"
+theme = "hugoplate"
+timeZone = "America/Los_Angeles"
+paginate = 2
+summaryLength = 10
+>>>>>>> d856023e4d3701e9964cead00e577856c0e340ed
 # disable language
 disableLanguages = [
 ] # example: ["fr"] for disable french language. see https://gohugo.io/content-management/multilingual/

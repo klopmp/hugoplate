@@ -3,16 +3,11 @@
 # main menu
 [[main]]
 name = "Home"
-<<<<<<< HEAD
 pageRef = "/"
-=======
-url = "/"
->>>>>>> d856023e4d3701e9964cead00e577856c0e340ed
 weight = 1
 
 [[main]]
 name = "About"
-<<<<<<< HEAD
 pageRef = "/about"
 weight = 2
 
@@ -24,43 +19,25 @@ weight = 3
 [[main]]
 weight = 4
 name = "Pages"
-=======
-url = "about/"
-weight = 2
-
-[[main]]
-weight = 3
-name = "Pages"
-hasChildren = true
->>>>>>> d856023e4d3701e9964cead00e577856c0e340ed
 
 [[main]]
 parent = "Pages"
 name = "Blog"
-<<<<<<< HEAD
 pageRef = "/blog"
-=======
-url = "blog/"
->>>>>>> d856023e4d3701e9964cead00e577856c0e340ed
 
 [[main]]
 parent = "Pages"
 name = "Contact"
-<<<<<<< HEAD
 pageRef = "/contact"
 
 [[main]]
 parent = "Pages"
 name = "Authors"
 pageRef = "/authors"
-=======
-url = "contact/"
->>>>>>> d856023e4d3701e9964cead00e577856c0e340ed
 
 [[main]]
 parent = "Pages"
 name = "Categories"
-<<<<<<< HEAD
 pageRef = "/categories"
 
 [[main]]
@@ -68,14 +45,10 @@ parent = "Pages"
 name = "404 Page"
 pageRef = "/404"
 
-=======
-url = "categories/"
->>>>>>> d856023e4d3701e9964cead00e577856c0e340ed
 
 # footer menu
 [[footer]]
 name = "About"
-<<<<<<< HEAD
 pageRef = "/about"
 weight = 1
 
@@ -88,12 +61,3 @@ weight = 2
 name = "Privacy Policy"
 pageRef = "/privacy-policy"
 weight = 3
-=======
-url = "about/"
-weight = 1
-
-[[footer]]
-name = "Privacy Policy"
-url = "privacy-policy/"
-weight = 2
->>>>>>> d856023e4d3701e9964cead00e577856c0e340ed

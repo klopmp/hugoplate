@@ -28,6 +28,13 @@
     "prettier-plugin-go-template": "0.0.15",
     "prettier-plugin-tailwindcss": "^0.6.5",
     "tailwind-bootstrap-grid": "^5.1.0",
+<<<<<<< HEAD
     "tailwindcss": "^3.4.4"
+=======
+    "tailwindcss": "^3.4.1"
+  },
+  "dependencies": {
+    "@vercel/speed-insights": "^1.0.10"
+>>>>>>> d856023e4d3701e9964cead00e577856c0e340ed
   }
 }
