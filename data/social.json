@@ -1,24 +1,24 @@
 {
   "main": [
     {
-      "name": "facebook",
-      "icon": "fab fa-facebook",
-      "link": "https://www.facebook.com/"
-    },
-    {
-      "name": "twitter",
-      "icon": "fab fa-twitter",
-      "link": "https://twitter.com/"
-    },
-    {
-      "name": "github",
-      "icon": "fab fa-github",
-      "link": "https://www.github.com/"
-    },
-    {
       "name": "linkedin",
       "icon": "fab fa-linkedin",
-      "link": "https://www.linkedin.com/"
+      "link": "https://linkedin.com/company/zenbizservices"
+    },
+    {
+      "name": "youtube",
+      "icon": "fab fa-youtube",
+      "link": "https://youtube.com/@zenbizservices"
+    },
+    {
+      "name": "instagram",
+      "icon": "fab fa-instagram",
+      "link": "https://instagram.com/zenbiz.co"
+    },
+    {
+      "name": "x",
+      "icon": "fab fa-twitter",
+      "link": "https://twitter.com/zenbiz_co"
     }
   ]
 }
