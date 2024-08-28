@@ -1,7 +1,6 @@
 {
   "main": [
     {
-<<<<<<< HEAD
       "name": "facebook",
       "icon": "fab fa-facebook",
       "link": "https://www.facebook.com/"
@@ -15,25 +14,11 @@
       "name": "github",
       "icon": "fab fa-github",
       "link": "https://www.github.com/"
-=======
-      "name": "twitter",
-      "icon": "fab fa-twitter",
-      "link": "https://twitter.com/kattelo"
-    },
-    {
-      "name": "crunchbase",
-      "icon": "fab fa-cuttlefish",
-      "link": "https://www.crunchbase.com/organization/kattelo-consulting"
->>>>>>> d856023e4d3701e9964cead00e577856c0e340ed
     },
     {
       "name": "linkedin",
       "icon": "fab fa-linkedin",
-<<<<<<< HEAD
       "link": "https://www.linkedin.com/"
-=======
-      "link": "https://www.linkedin.com/company/kattelo"
->>>>>>> d856023e4d3701e9964cead00e577856c0e340ed
     }
   ]
 }
